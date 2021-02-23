@@ -1,0 +1,7 @@
+venv/
+.idea/
+/data/
+/datasets/
+
+/.pytest_cache
+/.ipynb_checkpoints/
